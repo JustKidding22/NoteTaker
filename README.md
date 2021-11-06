@@ -12,7 +12,7 @@
 
 ## ScreenShots
 
-![frontPage](../assets/images/ScreenShot.jpg)
+![frontPage](../assets/images/screenShot.jpg)
 
 ![backPage](./assets/images/secondScreenShot.jpg)
 
