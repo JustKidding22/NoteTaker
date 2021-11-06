@@ -12,9 +12,9 @@
 
 ## ScreenShots
 
-![frontPage](assets/images/ScreenShot.jpg)
+![frontPage](.assets/images/ScreenShot.jpg)
 
-![backPage](assets/images/secondScreenShot.jpg)
+![backPage](.assets/images/secondScreenShot.jpg)
 
 [Launch Note Taker]()
 
