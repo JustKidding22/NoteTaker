@@ -16,7 +16,7 @@
 
 ![backPage](public/assets/images/secondScreenShot.jpg)
 
-[## Launch Note Taker](https://note-taker-application-2021.herokuapp.com/)
+## [Launch Note Taker](https://note-taker-application-2021.herokuapp.com/)
 
 ## Acceptance Criteria :
 
